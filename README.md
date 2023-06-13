@@ -66,7 +66,7 @@
 </p>
 
 <p>
-<img alt="Chris's Github Stats" src="https://github-readme-stats-ebon-gamma.vercel.app/api?username=ChrisMKocabas&show_icons=true&count_private=true&hide_border=true&theme=radical/>
+<img alt="Chris's Github Stats" src="[https://github-readme-stats-ebon-gamma.vercel.app/api?username=ChrisMKocabas&show_icons=true&count_private=true&hide_border=true&theme=radical](https://github-readme-stats-ebon-gamma.vercel.app/api?username=ChrisMKocabas&show_icons=true&count_private=true&hide_border=true&theme=radical)"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisMKocabas&theme=radical" alt="ChrisKocabas" /></p>
 
