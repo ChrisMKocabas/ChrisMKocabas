@@ -64,7 +64,7 @@
 <br />
 
 <p>
-<img alt="Chris's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMKocabas&layout=compact&langs_count=8&theme=radical" />
+<img alt="Chris's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMKocabas&layout=compact&langs_count=8&theme=radical&hide=html" />
 </p>
 
 <p>
