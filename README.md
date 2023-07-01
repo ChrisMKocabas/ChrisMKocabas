@@ -4,7 +4,7 @@
 -  🚀    I excel at Mobile and Full-Stack Web Development and learning Cloud and Cybersecurity.
 -  🤔    If you have a good idea, lets collab and bring it to life together!
 
-### Connect with me:
+### Connect with me below: 
 
 [<img align="left" alt="chriskocabas.com" height="25px" src="https://img.shields.io/website?color=%23424242&down_color=white&down_message=chriskocabas.com&label=%20&style=for-the-badge&up_color=white&up_message=chriskocabas.com&url=https%3A%2F%2Fchriskocabas.com" />][website]
 [<img align="left" alt="Chris Kocabas | LinkedIn" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitesvg" />][linkedin]
