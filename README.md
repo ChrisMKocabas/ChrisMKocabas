@@ -83,6 +83,13 @@
 
 <br />
 
+### Leetcode:
+
+<img src="https://leetcode.card.workers.dev/ChrisMKocabas?theme=dark&font=source_code_pro&extension=null"/></p>
+
+<br />
+
+
 ### Thanks for stopping by friend, see you around!
 
 [website]: https://www.chriskocabas.com
