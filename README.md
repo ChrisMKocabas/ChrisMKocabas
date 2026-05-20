@@ -1,7 +1,7 @@
 ### Hello there, I'm [Chris][website]. Welcome to my profile! 🙋‍♂️
 
--  👨‍💻    I'm currently a freelancer [@Freelancer.com][freelancer]
--  🚀    I excel at Mobile and Full-Stack Web Development and learning Cloud and Cybersecurity.
+-  👨‍💻    I'm a Software Engineer.
+-  🚀    I excel at Native mobile app development and AI Workflows
 -  🤔    If you have a good idea, lets collab and bring it to life together!
 
 ### Connect with me below: 
